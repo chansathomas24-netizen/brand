@@ -21,15 +21,6 @@ const pillars: Pillar[] = [
     image: '/ysm-meal-preps-main.jpg',
   },
   {
-    icon: '🥞',
-    pillarNum: 'PILLAR 02',
-    title: 'BRUNCH',
-    description:
-      'Fluffy pancakes, french toast, and private tables for the Lusaka community every weekend. YSM Saturdays are something else.',
-    tags: ['PANCAKES', 'FRENCH TOAST', 'WEEKENDS'],
-    image: '/brunch-ysm-2.jpg',
-  },
-  {
     icon: '💪',
     pillarNum: 'PILLAR 03',
     title: 'FITNESS',
@@ -94,7 +85,7 @@ export default function PillarsSection() {
         <div className="pillars-header opacity-0">
           <p className="section-label">WHAT WE&apos;RE ABOUT</p>
           <h2 className="section-heading mt-4">
-            Three Pillars.
+            Two Pillars.
             <br />
             One Life.
           </h2>
