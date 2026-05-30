@@ -161,8 +161,8 @@ export default function HeroSection() {
           ref={subtitleRef}
           className="font-inter text-ysm-sand text-base sm:text-lg leading-relaxed max-w-[560px] mx-auto mb-4 opacity-0"
         >
-          A social-first Zambian wellness house bringing culinary comfort and
-          fitness-minded meal prep to the Lusaka YSM family.
+          A social first Zambian wellness house bringing culinary comfort and
+          fitness rhythm to the Lusaka YSM family.
         </p>
         <p className="font-inter text-ysm-mist text-sm leading-relaxed max-w-[500px] mx-auto mb-10">
           Meal Prep Sundays · Meatless Mondays · Low Carb Wednesdays · Cheat
