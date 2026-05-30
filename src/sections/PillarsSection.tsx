@@ -22,7 +22,7 @@ const pillars: Pillar[] = [
   },
   {
     icon: '💪',
-    pillarNum: 'PILLAR 03',
+    pillarNum: 'PILLAR 02',
     title: 'FITNESS',
     description:
       'Move with purpose. Practical meal plans for training, recovery, and steady routines. Our fitness arm shows up every day.',
